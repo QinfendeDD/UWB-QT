@@ -1,0 +1,6 @@
+如果出现cannot open /connect to COM prot
+
+原因:
+1、虚拟串口驱动安装失败
+2、硬件USB未连接
+3、usb 线不支持数据通讯
